@@ -285,7 +285,7 @@ function App() {
       {/* Footer */}
       <footer className="p-4 flex justify-end items-center bg-white shadow-sm">
         <a 
-          href="https://github.com/abishekvenkat" 
+          href="https://github.com/abishekvenkat/DO-NOT-FIND-THE-FOX" 
           target="_blank" 
           rel="noopener noreferrer"
           className="p-2 text-slate-600 hover:text-slate-900 transition-colors"
